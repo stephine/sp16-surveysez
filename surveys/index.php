@@ -2,7 +2,6 @@
 /**
  * index.php works with survey_view.php to create a list/view app
  *
- 
  * @package SP16-SurveySez
  * @author Stephine Woodward <stephineanne@gmail.com>
  * @version 1.0 2016/05/12
